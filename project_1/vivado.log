@@ -1,0 +1,430 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sat Sep 23 10:03:55 2017
+# Process ID: 8092
+# Current directory: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11684
+# Log file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/vivado.log
+# Journal file: C:/Users/aptay/AppData/Roaming/Xilinx/Vivado\vivado.jou
+#-----------------------------------------------------------
+start_gui
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+create_project project_1 C:/hdl_projects/P217_spi/project_1 -part xc7z020clg400-1
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.2/data/ip'.
+create_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:08 . Memory (MB): peak = 859.500 ; gain = 5.590
+set_property board_part digilentinc.com:arty-z7-20:part0:1.0 [current_project]
+create_bd_design "design_1"
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd> 
+create_bd_design: Time (s): cpu = 00:00:12 ; elapsed = 00:00:11 . Memory (MB): peak = 898.711 ; gain = 9.820
+update_compile_order -fileset sources_1
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:processing_system7:5.5 processing_system7_0
+create_bd_cell: Time (s): cpu = 00:00:06 ; elapsed = 00:00:05 . Memory (MB): peak = 968.285 ; gain = 31.914
+endgroup
+apply_bd_automation -rule xilinx.com:bd_rule:processing_system7 -config {make_external "FIXED_IO, DDR" apply_board_preset "1" Master "Disable" Slave "Disable" }  [get_bd_cells processing_system7_0]
+apply_bd_automation: Time (s): cpu = 00:00:09 ; elapsed = 00:00:07 . Memory (MB): peak = 983.797 ; gain = 4.453
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+startgroup
+set_property -dict [list CONFIG.PCW_QSPI_GRP_SINGLE_SS_ENABLE {1} CONFIG.PCW_SPI0_PERIPHERAL_ENABLE {1}] [get_bd_cells processing_system7_0]
+endgroup
+set_property location {438 -96} [get_bd_intf_ports DDR]
+set_property location {439 -70} [get_bd_intf_ports FIXED_IO]
+set_property location {438 -95} [get_bd_intf_ports DDR]
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:axi_quad_spi:3.2 axi_quad_spi_0
+apply_board_connection -board_interface "spi" -ip_intf "axi_quad_spi_0/SPI_0" -diagram "design_1" 
+INFO: [board_interface 100-100] set_property CONFIG.USE_BOARD_FLOW true [get_bd_cells -quiet /axi_quad_spi_0]
+INFO: [board_interface 100-100] set_property CONFIG.QSPI_BOARD_INTERFACE spi [get_bd_cells -quiet /axi_quad_spi_0]
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+INFO: [board_interface 100-100] create_bd_intf_port -mode Master -vlnv xilinx.com:interface:spi_rtl:1.0 spi
+INFO: [board_interface 100-100] connect_bd_intf_net /spi /axi_quad_spi_0/SPI_0
+endgroup
+delete_bd_objs [get_bd_intf_nets axi_quad_spi_0_SPI_0] [get_bd_cells axi_quad_spi_0]
+delete_bd_objs [get_bd_intf_ports spi]
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:axi_quad_spi:3.2 axi_quad_spi_0
+apply_board_connection -board_interface "spi" -ip_intf "axi_quad_spi_0/SPI_0" -diagram "design_1" 
+INFO: [board_interface 100-100] set_property CONFIG.USE_BOARD_FLOW true [get_bd_cells -quiet /axi_quad_spi_0]
+INFO: [board_interface 100-100] set_property CONFIG.QSPI_BOARD_INTERFACE spi [get_bd_cells -quiet /axi_quad_spi_0]
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part em.avnet.com:ultrazed_eg_iocc:part0:1.0 available at C:/Xilinx/Vivado/2017.2/data/boards/board_files/ultrazed_3eg_iocc_es1/1.0/board.xml as part xczu3eg-sfva625-1-i-es1 specified in board_part file is either invalid or not available
+INFO: [board_interface 100-100] create_bd_intf_port -mode Master -vlnv xilinx.com:interface:spi_rtl:1.0 spi
+INFO: [board_interface 100-100] connect_bd_intf_net /spi /axi_quad_spi_0/SPI_0
+endgroup
+delete_bd_objs [get_bd_intf_nets axi_quad_spi_0_SPI_0] [get_bd_cells axi_quad_spi_0]
+delete_bd_objs [get_bd_intf_ports spi]
+startgroup
+make_bd_pins_external  [get_bd_pins processing_system7_0/SPI0_MOSI_O]
+WARNING: [BD 41-1306] The connection to interface pin /processing_system7_0/SPI0_MOSI_O is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+startgroup
+make_bd_pins_external  [get_bd_pins processing_system7_0/SPI0_MISO_I]
+WARNING: [BD 41-1306] The connection to interface pin /processing_system7_0/SPI0_MISO_I is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+set_property location {444 95} [get_bd_ports SPI0_MISO_I]
+startgroup
+make_bd_pins_external  [get_bd_pins processing_system7_0/SPI0_SS_O]
+WARNING: [BD 41-1306] The connection to interface pin /processing_system7_0/SPI0_SS_O is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+startgroup
+make_bd_pins_external  [get_bd_pins processing_system7_0/SPI0_SCLK_O]
+WARNING: [BD 41-1306] The connection to interface pin /processing_system7_0/SPI0_SCLK_O is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+set_property location {467 -30} [get_bd_ports SPI0_SCLK_O]
+set_property location {472 -14} [get_bd_ports SPI0_MOSI_O]
+set_property location {474 16} [get_bd_ports SPI0_MISO_I]
+set_property location {475 6} [get_bd_ports SPI0_MISO_I]
+set_property location {473 33} [get_bd_ports SPI0_SS_O]
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+startgroup
+set_property -dict [list CONFIG.PCW_USE_M_AXI_GP0 {0} CONFIG.PCW_QSPI_GRP_SINGLE_SS_ENABLE {1}] [get_bd_cells processing_system7_0]
+endgroup
+set_property location {471 43} [get_bd_ports SPI0_SS_O]
+set_property location {471 20} [get_bd_ports SPI0_MISO_I]
+set_property location {469 4} [get_bd_ports SPI0_MOSI_O]
+set_property location {467 -13} [get_bd_ports SPI0_SCLK_O]
+set_property location {466 -9} [get_bd_ports SPI0_MOSI_O]
+set_property location {467 -1} [get_bd_ports SPI0_MOSI_O]
+set_property location {467 -16} [get_bd_ports SPI0_SCLK_O]
+set_property location {468 -53} [get_bd_intf_ports FIXED_IO]
+set_property location {469 -65} [get_bd_intf_ports FIXED_IO]
+set_property location {469 -83} [get_bd_intf_ports DDR]
+file mkdir C:/hdl_projects/P217_spi/project_1/project_1.srcs/constrs_1
+file mkdir C:/hdl_projects/P217_spi/project_1/project_1.srcs/constrs_1/new
+close [ open C:/hdl_projects/P217_spi/project_1/project_1.srcs/constrs_1/new/const.xdc w ]
+add_files -fileset constrs_1 C:/hdl_projects/P217_spi/project_1/project_1.srcs/constrs_1/new/const.xdc
+generate_target all [get_files  C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+WARNING: [#UNDEF] When using EMIO pins for SPI_0 tie SSIN High in the PL bitstream
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd> 
+Verilog Output written to : C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1.v
+Verilog Output written to : C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+Exporting to file C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hw_handoff/design_1.hwh
+Generated Block Design Tcl file C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hw_handoff/design_1_bd.tcl
+Generated Hardware Definition File C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1.hwdef
+generate_target: Time (s): cpu = 00:00:44 ; elapsed = 00:00:45 . Memory (MB): peak = 1116.434 ; gain = 55.031
+export_ip_user_files -of_objects [get_files C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+launch_runs -jobs 4 design_1_processing_system7_0_0_synth_1
+[Sat Sep 23 12:10:04 2017] Launched design_1_processing_system7_0_0_synth_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/design_1_processing_system7_0_0_synth_1/runme.log
+export_simulation -of_objects [get_files C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -directory C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files/sim_scripts -ip_user_files_dir C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files -ipstatic_source_dir C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/modelsim} {questa=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/questa} {riviera=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/riviera} {activehdl=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+make_wrapper -files [get_files C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -top
+add_files -norecurse C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v
+save_bd_design
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/ui/bd_1f5defd0.ui> 
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+[Sat Sep 23 12:12:17 2017] Launched synth_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/synth_1/runme.log
+[Sat Sep 23 12:12:17 2017] Launched impl_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/impl_1/runme.log
+open_run impl_1
+INFO: [Netlist 29-17] Analyzing 1 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2017.2
+INFO: [Device 21-403] Loading part xc7z020clg400-1
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp3/design_1_wrapper_early.xdc]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp3/design_1_wrapper_early.xdc]
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp3/design_1_wrapper.xdc]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp3/design_1_wrapper.xdc]
+Reading XDEF placement.
+Reading placer database...
+Reading XDEF routing.
+Read XDEF File: Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.612 . Memory (MB): peak = 1491.484 ; gain = 0.000
+Restored from archive | CPU: 1.000000 secs | Memory: 0.000000 MB |
+Finished XDEF File Restore: Time (s): cpu = 00:00:01 ; elapsed = 00:00:00.626 . Memory (MB): peak = 1491.484 ; gain = 0.000
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+open_run: Time (s): cpu = 00:00:47 ; elapsed = 00:00:25 . Memory (MB): peak = 1610.422 ; gain = 312.363
+file mkdir C:/hdl_projects/P217_spi/project_1/project_1.sdk
+file copy -force C:/hdl_projects/P217_spi/project_1/project_1.runs/impl_1/design_1_wrapper.sysdef C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+
+close_design
+launch_sdk -workspace C:/hdl_projects/P217_spi/project_1/project_1.sdk -hwspec C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/hdl_projects/P217_spi/project_1/project_1.sdk -hwspec C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+open_bd_design {C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd}
+CRITICAL WARNING: [PSU-1]  Parameter : PCW_UIPARAM_DDR_DQS_TO_CLK_DELAY_2 has negative value -0.009 . PS DDR interfaces might fail when entering negative DQS skew values. 
+CRITICAL WARNING: [PSU-2]  Parameter : PCW_UIPARAM_DDR_DQS_TO_CLK_DELAY_3 has negative value -0.033 . PS DDR interfaces might fail when entering negative DQS skew values. 
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+launch_sdk -workspace C:/hdl_projects/P217_spi/project_1/project_1.sdk -hwspec C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/hdl_projects/P217_spi/project_1/project_1.sdk -hwspec C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:axi_quad_spi:3.2 axi_quad_spi_0
+endgroup
+set_property location {0.5 -59 -205} [get_bd_cells axi_quad_spi_0]
+delete_bd_objs [get_bd_cells axi_quad_spi_0]
+save_bd_design
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd> 
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/ui/bd_1f5defd0.ui> 
+close_project
+open_project C:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.2/data/ip'.
+WARNING: [IP_Flow 19-3664] IP 'design_1_clk_wiz_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_clk_wiz_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_mig_7series_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_mig_7series_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_microblaze_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_microblaze_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_microblaze_0_axi_intc_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_microblaze_0_axi_intc_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_microblaze_0_xlconcat_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_microblaze_0_xlconcat_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_mdm_1_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_mdm_1_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_rst_mig_7series_0_83M_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_rst_mig_7series_0_83M_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_axi_smc_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_smc_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_axi_uartlite_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_uartlite_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_axi_iic_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_iic_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_axi_quad_spi_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_quad_spi_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_dlmb_v10_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_dlmb_v10_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_ilmb_v10_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_ilmb_v10_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_dlmb_bram_if_cntlr_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_dlmb_bram_if_cntlr_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_ilmb_bram_if_cntlr_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_ilmb_bram_if_cntlr_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_lmb_bram_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_lmb_bram_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_ila_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_ila_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_ila_1_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_ila_1_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_xbar_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_xbar_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_axi_timer_0_0' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_timer_0_0/stats.txt'. Please regenerate to continue.
+WARNING: [IP_Flow 19-3664] IP 'design_1_ila_1_1' generated file not found 'c:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.srcs/sources_1/bd/design_1/ip/design_1_ila_1_1/stats.txt'. Please regenerate to continue.
+open_project: Time (s): cpu = 00:00:49 ; elapsed = 00:00:56 . Memory (MB): peak = 1985.020 ; gain = 3.934
+update_compile_order -fileset sources_1
+INFO: [Vivado 12-4158] Exported Hardware file is out of date. Exported hardware information may be inconsistent with respect to the current state of the design. It is recommended that you re-export the design and launch SDK otherwise SDK is launched with out of date hardware system file.
+launch_sdk -workspace C:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.sdk -hwspec C:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-393] Launching SDK...
+INFO: [Vivado 12-417] Running xsdk -workspace C:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.sdk -hwspec C:/hdl_projects/arty_inscopix/Project_1_2017_2/project_1.sdk/design_1_wrapper.hdf
+INFO: [Vivado 12-3157] SDK launch initiated. Please check console for any further messages.
+open_project C:/hdl_projects/P217_spi/project_1/project_1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.2/data/ip'.
+open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:09 . Memory (MB): peak = 1997.188 ; gain = 0.000
+update_compile_order -fileset sources_1
+current_project project_1
+close_project
+open_bd_design {C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd}
+Adding cell -- xilinx.com:ip:processing_system7:5.5 - processing_system7_0
+Successfully read diagram <design_1> from BD file <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd>
+open_bd_design: Time (s): cpu = 00:00:11 ; elapsed = 00:00:11 . Memory (MB): peak = 1997.188 ; gain = 0.000
+startgroup
+create_bd_cell -type ip -vlnv xilinx.com:ip:axi_quad_spi:3.2 axi_quad_spi_0
+endgroup
+set_property location {2 415 260} [get_bd_cells axi_quad_spi_0]
+WARNING: [IP_Flow 19-474] Invalid Parameter 'Component_Name'
+startgroup
+set_property -dict [list CONFIG.PCW_USE_M_AXI_GP0 {1}] [get_bd_cells processing_system7_0]
+endgroup
+connect_bd_net [get_bd_pins processing_system7_0/FCLK_CLK0] [get_bd_pins processing_system7_0/M_AXI_GP0_ACLK]
+apply_bd_automation -rule xilinx.com:bd_rule:axi4 -config {Master "/processing_system7_0/M_AXI_GP0" intc_ip "New AXI Interconnect" Clk_xbar "Auto" Clk_master "Auto" Clk_slave "Auto" }  [get_bd_intf_pins axi_quad_spi_0/AXI_LITE]
+INFO: [Ipptcl 7-1463] No Compatible Board Interface found. Board Tab not created in customize GUI
+</axi_quad_spi_0/AXI_LITE/Reg> is being mapped into </processing_system7_0/Data> at <0x41E00000 [ 64K ]>
+connect_bd_net [get_bd_pins axi_quad_spi_0/ext_spi_clk] [get_bd_pins processing_system7_0/FCLK_CLK0]
+startgroup
+set_property -dict [list CONFIG.C_NUM_TRANSFER_BITS {16} CONFIG.Master_mode {0} CONFIG.C_USE_STARTUP {0} CONFIG.C_USE_STARTUP_INT {0}] [get_bd_cells axi_quad_spi_0]
+endgroup
+startgroup
+make_bd_pins_external  [get_bd_pins axi_quad_spi_0/io0_i]
+WARNING: [BD 41-1306] The connection to interface pin /axi_quad_spi_0/io0_i is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+set_property location {485 251} [get_bd_ports io0_i]
+set_property location {498 250} [get_bd_ports io0_i]
+set_property location {503 222} [get_bd_ports io0_i]
+set_property location {508 279} [get_bd_ports io0_i]
+set_property location {482 591} [get_bd_ports io0_i]
+startgroup
+make_bd_pins_external  [get_bd_pins axi_quad_spi_0/io1_o]
+WARNING: [BD 41-1306] The connection to interface pin /axi_quad_spi_0/io1_o is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+startgroup
+make_bd_pins_external  [get_bd_pins axi_quad_spi_0/spisel]
+WARNING: [BD 41-1306] The connection to interface pin /axi_quad_spi_0/spisel is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+startgroup
+make_bd_pins_external  [get_bd_pins axi_quad_spi_0/sck_i]
+WARNING: [BD 41-1306] The connection to interface pin /axi_quad_spi_0/sck_i is being overridden by the user. This pin will not be connected as a part of interface connection SPI_0
+endgroup
+regenerate_bd_layout
+set_property location {-39 550} [get_bd_ports io0_i]
+set_property location {-9 518} [get_bd_ports sck_i]
+save_bd_design
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd> 
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/ui/bd_1f5defd0.ui> 
+reset_target all [get_files  C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+export_ip_user_files -of_objects  [get_files  C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -sync -no_script -force -quiet
+delete_ip_run [get_files -of_objects [get_fileset sources_1] C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+generate_target all [get_files  C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+WARNING: [BD 41-702] Propagation TCL tries to overwrite USER strength parameter PCW_M_AXI_GP0_FREQMHZ(10) on '/processing_system7_0' with propagated value(100). Command ignored
+WARNING: [#UNDEF] When using EMIO pins for SPI_0 tie SSIN High in the PL bitstream
+INFO: [xilinx.com:ip:axi_quad_spi:3.2-1] /axi_quad_spi_0 
+                   #######################################################################################
+                   INFO: AXI Quad SPI core's AXI Lite Clock and EXT SPI CLK are synchronous to each other.
+                   ########################################################################################
+INFO: [xilinx.com:ip:axi_quad_spi:3.2-1] /axi_quad_spi_0 
+                   #######################################################################################
+                   INFO: AXI Quad SPI core's AXI Lite Clock and EXT SPI CLK are synchronous to each other.
+                   ########################################################################################
+Wrote  : <C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd> 
+Verilog Output written to : C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1.v
+Verilog Output written to : C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1_wrapper.v
+INFO: [BD 41-1029] Generation completed for the IP Integrator block processing_system7_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block axi_quad_spi_0 .
+INFO: [BD 41-1029] Generation completed for the IP Integrator block rst_ps7_0_100M .
+WARNING: [IP_Flow 19-4994] Overwriting existing constraint file 'c:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/ip/design_1_auto_pc_0/design_1_auto_pc_0_ooc.xdc'
+INFO: [BD 41-1029] Generation completed for the IP Integrator block ps7_0_axi_periph/s00_couplers/auto_pc .
+Exporting to file C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hw_handoff/design_1.hwh
+Generated Block Design Tcl file C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hw_handoff/design_1_bd.tcl
+Generated Hardware Definition File C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/hdl/design_1.hwdef
+generate_target: Time (s): cpu = 00:00:50 ; elapsed = 00:00:50 . Memory (MB): peak = 2072.984 ; gain = 57.496
+catch { config_ip_cache -export [get_ips -all design_1_processing_system7_0_0] }
+catch { config_ip_cache -export [get_ips -all design_1_axi_quad_spi_0_0] }
+catch { config_ip_cache -export [get_ips -all design_1_rst_ps7_0_100M_0] }
+catch { config_ip_cache -export [get_ips -all design_1_auto_pc_0] }
+export_ip_user_files -of_objects [get_files C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd]
+launch_runs -jobs 4 {design_1_processing_system7_0_0_synth_1 design_1_axi_quad_spi_0_0_synth_1 design_1_rst_ps7_0_100M_0_synth_1 design_1_auto_pc_0_synth_1}
+[Sat Sep 23 15:41:40 2017] Launched design_1_processing_system7_0_0_synth_1, design_1_axi_quad_spi_0_0_synth_1, design_1_rst_ps7_0_100M_0_synth_1, design_1_auto_pc_0_synth_1...
+Run output will be captured here:
+design_1_processing_system7_0_0_synth_1: C:/hdl_projects/P217_spi/project_1/project_1.runs/design_1_processing_system7_0_0_synth_1/runme.log
+design_1_axi_quad_spi_0_0_synth_1: C:/hdl_projects/P217_spi/project_1/project_1.runs/design_1_axi_quad_spi_0_0_synth_1/runme.log
+design_1_rst_ps7_0_100M_0_synth_1: C:/hdl_projects/P217_spi/project_1/project_1.runs/design_1_rst_ps7_0_100M_0_synth_1/runme.log
+design_1_auto_pc_0_synth_1: C:/hdl_projects/P217_spi/project_1/project_1.runs/design_1_auto_pc_0_synth_1/runme.log
+export_simulation -of_objects [get_files C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/design_1.bd] -directory C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files/sim_scripts -ip_user_files_dir C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files -ipstatic_source_dir C:/hdl_projects/P217_spi/project_1/project_1.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/modelsim} {questa=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/questa} {riviera=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/riviera} {activehdl=C:/hdl_projects/P217_spi/project_1/project_1.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+[Sat Sep 23 15:46:10 2017] Launched synth_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/synth_1/runme.log
+[Sat Sep 23 15:46:10 2017] Launched impl_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/impl_1/runme.log
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 4
+[Sat Sep 23 15:51:30 2017] Launched synth_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/synth_1/runme.log
+[Sat Sep 23 15:51:30 2017] Launched impl_1...
+Run output will be captured here: C:/hdl_projects/P217_spi/project_1/project_1.runs/impl_1/runme.log
+open_run impl_1
+INFO: [Netlist 29-17] Analyzing 22 Unisim elements for replacement
+INFO: [Netlist 29-28] Unisim Transformation completed in 0 CPU seconds
+INFO: [Project 1-479] Netlist was created with Vivado 2017.2
+INFO: [Project 1-570] Preparing netlist for logic optimization
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_board.xdc]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_board.xdc]
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_early.xdc]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_early.xdc]
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper.xdc]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper.xdc]
+Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_late.xdc]
+INFO: [Timing 38-35] Done setting XDC timing constraints. [C:/hdl_projects/P217_spi/project_1/project_1.srcs/sources_1/bd/design_1/ip/design_1_axi_quad_spi_0_0/design_1_axi_quad_spi_0_0_clocks.xdc:54]
+Finished Parsing XDC File [C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/dcp21/design_1_wrapper_late.xdc]
+Reading XDEF placement.
+Reading placer database...
+Reading XDEF routing.
+Read XDEF File: Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 2257.465 ; gain = 1.004
+Restored from archive | CPU: 1.000000 secs | Memory: 0.000000 MB |
+Finished XDEF File Restore: Time (s): cpu = 00:00:01 ; elapsed = 00:00:01 . Memory (MB): peak = 2257.465 ; gain = 1.004
+INFO: [Project 1-111] Unisim Transformation Summary:
+  A total of 6 instances were transformed.
+  RAM32M => RAM32M (RAMS32, RAMS32, RAMD32, RAMD32, RAMD32, RAMD32, RAMD32, RAMD32): 6 instances
+
+open_run: Time (s): cpu = 00:00:25 ; elapsed = 00:00:16 . Memory (MB): peak = 2340.219 ; gain = 237.633
+file copy -force C:/hdl_projects/P217_spi/project_1/project_1.runs/impl_1/design_1_wrapper.sysdef C:/hdl_projects/P217_spi/project_1/project_1.sdk/design_1_wrapper.hdf
+
+close_design
+archive_project C:/hdl_projects/P217_spi/project_1.xpr.zip -temp_dir C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13 -force
+INFO: [Coretcl 2-137] starting archive...
+INFO: [Coretcl 2-1499] Saving project copy to temporary location 'C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13' for archiving project
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.2/data/ip'.
+INFO: [Coretcl 2-1211] Creating project copy for archival...
+INFO: [ProjectBase 1-495] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience any problem with archiving the project, please consider setting environment variable $TEMP to a shorter path.
+Current project path is 'C:/Users/aptay/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-8092-DESKTOP-HQKVQ13/PrjAr/_X_'.
+INFO: [Coretcl 2-1213] Including run results for 'synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'design_1_processing_system7_0_0_synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'design_1_axi_quad_spi_0_0_synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'design_1_rst_ps7_0_100M_0_synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'design_1_auto_pc_0_synth_1'
+INFO: [Coretcl 2-1213] Including run results for 'impl_1'
+INFO: [Coretcl 2-133] re-setting run 'design_1_processing_system7_0_0_impl_1'...
+INFO: [Coretcl 2-133] re-setting run 'design_1_axi_quad_spi_0_0_impl_1'...
+INFO: [Coretcl 2-133] re-setting run 'design_1_rst_ps7_0_100M_0_impl_1'...
+INFO: [Coretcl 2-133] re-setting run 'design_1_auto_pc_0_impl_1'...
+INFO: [Coretcl 2-1212] Importing remotely added design sources and verilog include files (if any)...
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'design_1_auto_pc_0'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'design_1_auto_pc_0'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'design_1_axi_quad_spi_0_0'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'design_1_axi_quad_spi_0_0'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'design_1_processing_system7_0_0'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'design_1_processing_system7_0_0'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'design_1_rst_ps7_0_100M_0'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'design_1_rst_ps7_0_100M_0'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'constrs_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'constrs_1'
+INFO: [filemgmt 20-334] All file(s) are already imported in fileset: 'sources_1'
+INFO: [filemgmt 20-348] Importing the appropriate files for fileset: 'sources_1'
